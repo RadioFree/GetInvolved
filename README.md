@@ -59,7 +59,7 @@ Chainsaws buzz in the bacground while the sound of a large cherry tree falling d
 
 A sample description for audio of a concert:
 
-The band Rage Against The Machine combines drums, electric bass, electric guitar with vocals to create a blend of punk rock, reggae, funk and hip hop, which highlights the topics of activism, pirate radio and free speech through these lyrics:
+The band Rage Against The Machine combines drums, electric bass, electric guitar with vocals to create a blend of punk rock, reggae, funk and hip hop, for the song Guerilla Radio which highlights the topics of activism, pirate radio and free speech through these lyrics:
 
 [Verse 1]
 Transmission, third World War, third round
