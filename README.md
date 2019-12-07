@@ -29,8 +29,8 @@ Radio Free makes tools for journalists, always open source, and always free to u
 
 Getting information from a source to an audience takes many forms. We invite anyone to use our content (radiofree.org) to help spread the word about news in their community.  
 
-## Radio Free Print
-We created a plugin for WordPress that once installed, allows you to print any post in the Radio Free style.  The plugin adds a print button to the bottom of each post, which creates a print friendly version of the page including in-line annotations for links so that sources are kept transparent.
+## Print
+We created a plugin for WordPress that once installed, allows you to print any post in the Radio Free style.  The plugin adds a print button to the bottom of each post, which creates a print friendly version of the page including in-line annotations for links so that sources are kept transparent.  github.com/radiofree/print
 
 
 # Editors
