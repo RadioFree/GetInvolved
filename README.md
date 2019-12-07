@@ -10,8 +10,8 @@ Jump to
 - [Tactics](#tactics) 
 - [Editors](#editors) 
 - [Contributors](#contributors) 
-- [Musicians](#musicians) 
-- [Filmakers](#filmakers) 
+- [Audio](#audio) 
+- [Video](#video) 
 - [Activists](#activists)
 
 
@@ -46,3 +46,79 @@ Anyone can submit content to be published. We ask that you submit content by cre
 Our editors are trained to maintain strict guidelines against publishing hate speech, sexist and/or racist content, advertisments (which will be stripped automatically when possible), information that threatens the first ammendment and freedom of the press, and information that intends to be misleading. These guidelines are constantly revisited by our editorial team to ensure they meet the everychanging needs of people and news publishers in the future. If you are unsure why a certain post was taken down or rejected, please email info@radiofree.org so that we can try to explain the reasons behind our decision.  
 
 We ask that when you create content, you keep track of all people who contributed to that content being created.  Please add their names somewhere in the article where it it most approproiate for them to be recognized.  For any media added to the media library, we ask that you add the contributors names to that media within the "captions" field on WordPress.  
+
+
+### Audio
+
+When contributing audio, post a description of the audio including any lyrics or ideas behind the audio so listeners know what they are hearing. Creating a textual description of audio is easy to do.  You should think about the sounds you are hearing, and how those components interact. 
+
+A sample description for audio of the sounds of a tree getting cut down:
+
+Chainsaws buzz in the bacground while the sound of a large cherry tree falling down makes a cracking sound before it makes a loud crashing thud when hitting the ground.
+
+
+A sample description for audio of a concert:
+
+The band Rage Against The Machine combines drums, electric bass, electric guitar with vocals to create a blend of punk rock, reggae, funk and hip hop, which highlights the topics of activism, pirate radio and free speech through these lyrics:
+
+[Verse 1]
+Transmission, third World War, third round
+A decade of the weapon of sound above ground
+No shelter if you're looking for shade
+I lick shots at the brutal charade
+As the polls close like a casket, on truth devoured
+A silent play on the shadow of power
+A spectacle monopolized
+The camera's eyes on choice disguised
+Was it cast for the mass who burn and toil?
+Or for the vultures who thirst for blood and oil?
+Yes, a spectacle monopolized
+They hold the reins, stole your eyes
+All the Fistagons, the bullets, and bombs
+Who stuff the banks, who staff the party ranks
+More for Gore, or the son of a drug lord
+None of the above, fuck it, cut the cord!
+
+[Chorus]
+Lights out, guerrilla radio!
+Turn that shit up!
+Lights out, guerrilla radio!
+Turn that shit up!
+Lights out, guerrilla radio!
+Turn that shit up!
+Lights out, guerrilla radio!
+
+[Verse 2]
+Contact, I hijacked the frequencies
+Blockin' the beltway, move on DC!
+Way past the days of bombin' MCs'
+Sound off, Mumia go on be free!
+Who got 'em? Yo, check the federal file
+All you pendejos know the trial was vile
+An army of pigs try to silence my style
+Off 'em all out that box, it's my radio dial!
+
+[Chorus]
+Lights out, guerrilla radio!
+Turn that shit up!
+Lights out, guerrilla radio!
+Turn that shit up!
+Lights out, guerrilla radio!
+Turn that shit up!
+Lights out, guerrilla radio!
+Turn that shit up!
+
+[Bridge]
+It has to start somewhere
+It has to start sometime
+What better place than here?
+What better time than now?
+
+[Outro]
+All hell can't stop us now
+All hell can't stop us now
+All hell can't stop us now
+All hell can't stop us now
+All hell can't stop us now
+All hell can't stop us now
+
