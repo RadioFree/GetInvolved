@@ -7,9 +7,12 @@ Get Involved is a guide for journalists and publishers made and maintained by Ra
 
 2 - Introduce yourself in the Discussion chat on the Wordpress Dashboard once you sign in.
 
-3 - Once in the dashboard, you can chat with other users for help.
+3 - Once in the dashboard, you can chat with other users for help and discuss projects on the dashboard.
 
-Anyone can contribute, and we will list dev projects on the WordPress Dashboard.  You can ask any questions in the chat, so don't be shy!   Collaboration works best when people feel comfortable sharing their ideas, so try to use inclusive language and have an open mind when working with others.
+
+Anyone can contribute, and we will list all projects on the WordPress Dashboard.  You can ask any questions in the chat, so don't be shy! Collaboration works best when people feel comfortable sharing their ideas, so try to use inclusive language and have an open mind when working with others.
+
+When you first join, you'll need an editor to assaign you work.  Just ask for an editor in the chat, and explain what you want to work on.  The editor will then assaign you the task and work as the project lead until you are given more access to the site.  
 
 
 # Table of Contents (Still a work in progress)
@@ -53,84 +56,34 @@ To become an editor on Radio Free, we require you to maintain at least 20 publis
 
 # Contributors
 
-Anyone can submit content to be published. We ask that you submit content by creating an account on radiofree.org and submitting by using the WordPress editor.  If you're unfamiliar with using WordPress, email info@radiofree.org and we can answer any questions not easily answered on wordpress.org or simply searching the internet. 
+There are infinite ways to contribute to Radio Free.  Below are just a few of the most common ways people get involved.  If there are projects or ideas you have that are not listed below, suggest an idea to an editor in the Discussion chat on the WordPress Dashboard of radiofree.org.  You can also email ideas to info@radiofree.org.
 
-Our editors are trained to maintain strict guidelines against publishing hate speech, sexist and/or racist content, advertisments (which will be stripped automatically when possible), information that threatens the first ammendment and freedom of the press, and information that intends to be misleading. These guidelines are constantly revisited by our editorial team to ensure they meet the everychanging needs of people and news publishers in the future. If you are unsure why a certain post was taken down or rejected, please email info@radiofree.org so that we can try to explain the reasons behind our decision.  
+## Publishers
+Anyone can submit content to be published. We ask that you submit content by creating an account on radiofree.org and submitting by using the WordPress editor, which can be accessed by clicking the "Home" icon on the WordPress Admin Bar when logged in, and then clicking on "Posts" on the left hand column.  If you're unfamiliar with using WordPress, email info@radiofree.org and we can answer any questions not easily answered on wordpress.org or simply searching the internet. Wordpress.org is a gret place to get started understanding how to use WordPress.
+
+Our editors are trained to maintain strict guidelines against publishing hate speech, sexist and/or racist content, advertisments (with the exception being unpaid advertisments that promote free expression, such as a concert or art show), information that threatens the first ammendment and freedom of the press, and information that intends to be misleading. These guidelines are constantly revisited by our editorial team to ensure they meet the everychanging needs of people and news publishers in the future. If you are unsure why a certain post was taken down or rejected, please email info@radiofree.org so that we can try to explain the reasons behind the decision, or reverse the decision if it was made by in poor judgment.  
 
 We ask that when you create content, you keep track of all people who contributed to that content being created.  Please add their names somewhere in the article where it it most approproiate for them to be recognized.  For any media added to the media library, we ask that you add the contributors names to that media within the "captions" field on WordPress.  
 
+## Best Practice for Preparing Content
 
-### Audio
+### Words
 
-When contributing audio, post a description of the audio including any lyrics or ideas behind the audio so listeners know what they are hearing. Creating a textual description of audio is easy to do.  You should think about the sounds you are hearing, and how those components interact. 
+When contributing written material, please try to link any words that readers might not be familiar with to a source that explains those words.  Wikipedia is a great resource for this, but any reliable source that explains the word or phrase is acceptable to use. Please do not use any shortlink or link forwarding services for these links (like bit.ly), as this will help our readers more easily be able to tell where the link is directing them.  
 
-A sample description for audio of the sounds of a tree getting cut down:
+It is important to write for accessability, so this means writing about complicated topics so that both a teenager and distinguished professor can easily understand what the topic is about without having to rely on other sources.  A good rule of thumb for adhearing to this is being able to read the article and only rely on links embedded in the text for context to understand the ideas being presented.  If the user has to search for terms, names, etc... without being able to click a link to just be able to understand the article, it needs more context.   Too many links can confuse the reader, so keeping a balance between providing links for context and using textual descriptors is bes practice.  If it can be explained easily with just a few words without a link, there is no need to add the link.
+
+### Audio / Video
+
+When contributing audio or video, try to post a description of the audio including any lyrics or ideas behind the audio so listeners know what they are hearing. Creating a textual description of audio is easy to do.  You should think about the sounds you are hearing, and how those components interact. 
+
+#### A sample description of the sounds of a tree being cut down:
 
 Chainsaws buzz in the bacground while the sound of a large cherry tree falling down makes a cracking sound before it makes a loud crashing thud when hitting the ground.
 
 
-A sample description for audio of a concert:
+#### A sample description of a concert:
 
-The band Rage Against The Machine combines drums, electric bass, electric guitar with vocals to create a blend of punk rock, reggae, funk and hip hop, for the song Guerilla Radio which highlights the topics of activism, pirate radio and free speech through these lyrics:
+The band Rage Against The Machine combines drums, electric bass, electric guitar with vocals to create a blend of punk rock, reggae, funk and hip hop, for the song Guerilla Radio which highlights the topics of activism, pirate radio and free speech through the captioned lyrics: [list full lyrics in "Caption" section of the Media Library for the post"
 
-[Verse 1]
-Transmission, third World War, third round
-A decade of the weapon of sound above ground
-No shelter if you're looking for shade
-I lick shots at the brutal charade
-As the polls close like a casket, on truth devoured
-A silent play on the shadow of power
-A spectacle monopolized
-The camera's eyes on choice disguised
-Was it cast for the mass who burn and toil?
-Or for the vultures who thirst for blood and oil?
-Yes, a spectacle monopolized
-They hold the reins, stole your eyes
-All the Fistagons, the bullets, and bombs
-Who stuff the banks, who staff the party ranks
-More for Gore, or the son of a drug lord
-None of the above, fuck it, cut the cord!
-
-[Chorus]
-Lights out, guerrilla radio!
-Turn that shit up!
-Lights out, guerrilla radio!
-Turn that shit up!
-Lights out, guerrilla radio!
-Turn that shit up!
-Lights out, guerrilla radio!
-
-[Verse 2]
-Contact, I hijacked the frequencies
-Blockin' the beltway, move on DC!
-Way past the days of bombin' MCs'
-Sound off, Mumia go on be free!
-Who got 'em? Yo, check the federal file
-All you pendejos know the trial was vile
-An army of pigs try to silence my style
-Off 'em all out that box, it's my radio dial!
-
-[Chorus]
-Lights out, guerrilla radio!
-Turn that shit up!
-Lights out, guerrilla radio!
-Turn that shit up!
-Lights out, guerrilla radio!
-Turn that shit up!
-Lights out, guerrilla radio!
-Turn that shit up!
-
-[Bridge]
-It has to start somewhere
-It has to start sometime
-What better place than here?
-What better time than now?
-
-[Outro]
-All hell can't stop us now
-All hell can't stop us now
-All hell can't stop us now
-All hell can't stop us now
-All hell can't stop us now
-All hell can't stop us now
 
