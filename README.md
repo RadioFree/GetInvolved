@@ -1,5 +1,6 @@
 # Get Involved
-Get Involved is a guide for journalists and publishers made and maintained by Radio Free.  
+
+Get Involved is a guide for journalists and publishers made and maintained by Radio Free. Email info@radiofree.org or join radiofree.org to contribute to this guide and other projects.  
 
 # First Steps
 
@@ -52,8 +53,6 @@ We created a plugin for WordPress that once installed, allows you to print any p
 
 To become an editor on Radio Free, we require you to maintain at least 20 published submissions on radiofree.org and be an active (active = contributing by posting or editing at least once every two months) member of our editorial community.  Make an account on radiofree.org to get started.  Once you have at least 20 published articles you'll see a button labled "Editorial Application" on the dashboard which you'll need to submit to be able to begin editing content.  This process ensures our platform stays protected from malicious edits, while also providing a training period for new and seasoned editors to the Radio Free guidelines. 
 
-
-
 # Contributors
 
 There are infinite ways to contribute to Radio Free.  Below are just a few of the most common ways people get involved.  If there are projects or ideas you have that are not listed below, suggest an idea to an editor in the Discussion chat on the WordPress Dashboard of radiofree.org.  You can also email ideas to info@radiofree.org.
@@ -80,7 +79,7 @@ Photos and other images should always try to provide a textual description of wh
 #### Example of an image caption:
 
 <img width="400px" src="/images/Person Fishing - Alora Griffiths.jpg">
-A person [If necessary, include a name of the person] standing in front of a stone bridge with a fishing rod on December 11, 2019 at 10:43 AM in London, England.  Photo taken by Alora Griffiths.
+A person [If necessary, include a name of the person] standing in front of a stone bridge with a fishing rod on December 11, 2019 at 10:43 AM in London, England.  Photo taken by Alora Griffiths. [The filename should reflect the photo and incorporate the author's name when possible.]
 
 ### Audio / Video
 
@@ -94,9 +93,10 @@ Chainsaws buzz in the bacground while the sound of a large cherry tree falling d
 
 A tall oak tree falls in a forest without making a sound
 
-
 #### A sample description of a concert:
 
 The band Rage Against The Machine combines drums, electric bass, electric guitar with vocals to create a blend of punk rock, reggae, funk and hip hop, for the song Guerilla Radio which highlights the topics of activism, pirate radio and free speech through the captioned lyrics: [List the full lyrics in the "Caption" section of the Media Library for the post]
 
+# Activism
 
+We encourage everyone in the community to take a stand on issues they feel strongly about.  We are working on maintaining a list of best practices for activists, to be able to aide in grassroots marketing efforts for people, not profits. With this in mind, we ask that you not use these tools for commercial purposes and that you not take any money from corporations when you do use these tools.  This ensures these will be used for the public interest, not corporate interests.  If you have any questions about these permissions, please email info@radiofree.org for clarification. 
