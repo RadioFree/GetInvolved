@@ -76,9 +76,11 @@ It is important to write for accessability, so this means writing about complica
 ### Photography
 
 Photos and other images should always try to provide a textual description of what is happening in the photo, who is depicted in the image, where the image took place, and when the photo was taken.  
-####Example of an image caption:
+
+#### Example of an image caption:
+
 <img width="400px" src="/images/Person Fishing - Alora Griffiths.jpg">
-A person [If necessary, include a name of the person] standing in front of a stone bridge with a fishing rod on December 11, 2019 at 10:43 AM in London, England.
+A person [If necessary, include a name of the person] standing in front of a stone bridge with a fishing rod on December 11, 2019 at 10:43 AM in London, England.  Photo taken by Alora Griffiths.
 
 ### Audio / Video
 
