@@ -3,11 +3,11 @@ Get Involved is a guide for journalists and publishers made and maintained by Ra
 
 # First Steps
 
-1 - Join the project by signing up at radiofree.org/2020/join
+<b>1</b> - Join the project by signing up at <a href="https://radiofree.org/2020/join">radiofree.org</a>
 
-2 - Introduce yourself in the Discussion chat on the Wordpress Dashboard once you sign in.
+<b>2</b> - Introduce yourself in the Discussion chat on the Wordpress Dashboard once you sign in.
 
-3 - Once in the dashboard, you can chat with other users for help and discuss projects on the dashboard.
+<b>3</b> - Once in the dashboard, you can chat with other users for help and discuss projects on the dashboard.
 
 
 Anyone can contribute, and we will list all projects on the WordPress Dashboard.  You can ask any questions in the chat, so don't be shy! Collaboration works best when people feel comfortable sharing their ideas, so try to use inclusive language and have an open mind when working with others.
@@ -32,7 +32,7 @@ Jump to
 
 # Introduction
 
-Radio Free follows these guidelines as a template for how to best practice the dissemination of information for journalistic institutions in the 21st century. These guides are meant to help highlight the best practices, tactics, and strategies for mediators of information (the media) to help disseminate information while helping protect journalists, their ideas, and their rights.  We define a journalist as anyone publishing information in the public interest.  We consider music, art, theatre, film, blogs, and other expressive outlets as great sources for fully understanding topics from different perspectives. We welcome the idea that these non-traditional news sources can be just as, if not more, effective at informing and reaching people.  We encourage news and information to be submitted from all perspectives, but have strict guidelines against publishing hate speech, sexist, racist, content, advertisments, information that threatens the first ammendment, and information that intends to be misleading. 
+Radio Free follows these guidelines as a template for how to best practice the dissemination and managment of information in the 21st century. These guides are meant to help highlight the best practices, tactics, and strategies for mediators of information (the media) to help disseminate information while helping protect journalists, their ideas, their sources, and everyones rights. We define a journalist as anyone publishing information in the public interest.  We consider music, art, theatre, film, blogs, and other expressive outlets as great sources for fully understanding topics from different perspectives. We welcome the idea that these non-traditional news sources can be just as, if not more, effective at informing and reaching people than traditional news sources. We encourage news and information to be submitted from all perspectives, but have strict guidelines against publishing hate speech, sexist and racist content, advertisments, information that threatens the basic human rights of expression and speech, and information that intends to be misleading or intentioanlly confusing for readers. 
 
 
 # Tools
