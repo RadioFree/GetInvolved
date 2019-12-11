@@ -73,9 +73,11 @@ When contributing written material, please try to link any words that readers mi
 
 It is important to write for accessability, so this means writing about complicated topics so that both a teenager and distinguished professor can easily understand what the topic is about without having to rely on other sources.  A good rule of thumb for adhearing to this is being able to read the article and only rely on links embedded in the text for context to understand the ideas being presented.  If the user has to search for terms, names, etc... without being able to click a link to just be able to understand the article, it needs more context.   Too many links can confuse the reader, so keeping a balance between providing links for context and using textual descriptors is bes practice.  If it can be explained easily with just a few words without a link, there is no need to add the link.
 
+### Photography
+
 ### Audio / Video
 
-When contributing audio or video, try to post a description of the audio including any lyrics or ideas behind the audio so listeners know what they are hearing. Creating a textual description of audio is easy to do.  You should think about the sounds you are hearing, and how those components interact. 
+When contributing audio or video, try to post a description of the audio including any lyrics or ideas behind the audio so listeners know what they are hearing. Creating a textual description of audio is easy to do.  You should think about the sounds you are hearing, and how those components interact. Likewise, if a component of the visuals in a video are not properly documented, please try to provide a textual description.  
 
 #### A sample description of the sounds of a tree being cut down:
 
