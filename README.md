@@ -26,9 +26,10 @@ Jump to
 - [Tactics](#tactics) 
 - [Editors](#editors) 
 - [Contributors](#contributors) 
-- [Audio](#audio) 
+- [Text](#text)
+- [Audio](#audio)
 - [Video](#video) 
-- [Activists](#activists)
+- [Activism](#activism)
 
 
 # Introduction
@@ -66,7 +67,7 @@ We ask that when you create content, you keep track of all people who contribute
 
 ## Best Practice for Preparing Content
 
-### Words
+### Text
 
 When contributing written material, please try to link any words that readers might not be familiar with to a source that explains those words.  Wikipedia is a great resource for this, but any reliable source that explains the word or phrase is acceptable to use. Please do not use any shortlink or link forwarding services for these links (like bit.ly), as this will help our readers more easily be able to tell where the link is directing them.  
 
