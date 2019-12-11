@@ -1,5 +1,13 @@
 # Get Involved
-Get Involved is a guide for journalists and publishers made and maintained by Radio Free.
+Get Involved is a guide for journalists and publishers made and maintained by Radio Free.  
+
+# First Steps
+
+1 - Join the project by signing up at radiofree.org/2020/join
+2 - Introduce yourself in the Discussion chat on the Wordpress Dashboard once you sign in.
+3 - Once in the dashboard, you can chat with other users for help.
+
+Anyone can contribute, and we will list dev projects on the WordPress Dashboard.  You can ask any questions in the chat, so don't be shy!   Colaboration works best when people feel comfortable sharing their ideas, so try to use inclusive language and have an open mind when working with others.
 
 
 # Table of Contents
