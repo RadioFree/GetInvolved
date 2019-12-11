@@ -32,7 +32,7 @@ Jump to
 
 # Introduction
 
-Radio Free follows these guidelines as a template for how to best practice the dissemination of information for journalistic institutions in the 21st century and beyond.  These guides are meant to help highlight the best practices, tactics, and strategies for mediators of information (the media) to help disseminate information while helping protect journalists, their ideas, and their rights.  We define a journalist as anyone publishing information in the public interest.  We consider music, art, theatre, film, blogs, and other expressive outlets as great sources for fully understanding topics from different perspectives. We welcome the idea that these non-traditional news sources can be just as, if not more, effective at informing and reaching people.  We encourage news and information to be submitted from all perspectives, but have strict guidelines against publishing hate speech, sexist, racist, content, advertisments, information that threatens the first ammendment, and information that intends to be misleading. 
+Radio Free follows these guidelines as a template for how to best practice the dissemination of information for journalistic institutions in the 21st century. These guides are meant to help highlight the best practices, tactics, and strategies for mediators of information (the media) to help disseminate information while helping protect journalists, their ideas, and their rights.  We define a journalist as anyone publishing information in the public interest.  We consider music, art, theatre, film, blogs, and other expressive outlets as great sources for fully understanding topics from different perspectives. We welcome the idea that these non-traditional news sources can be just as, if not more, effective at informing and reaching people.  We encourage news and information to be submitted from all perspectives, but have strict guidelines against publishing hate speech, sexist, racist, content, advertisments, information that threatens the first ammendment, and information that intends to be misleading. 
 
 
 # Tools
@@ -75,6 +75,11 @@ It is important to write for accessability, so this means writing about complica
 
 ### Photography
 
+Photos and other images should always try to provide a textual description of what is happening in the photo, who is depicted in the image, where the image took place, and when the photo was taken.  
+
+<img width="200px" src="/images/Person Fishing - Alora Griffiths.jpg">
+
+
 ### Audio / Video
 
 When contributing audio or video, try to post a description of the audio including any lyrics or ideas behind the audio so listeners know what they are hearing. Creating a textual description of audio is easy to do.  You should think about the sounds you are hearing, and how those components interact. Likewise, if a component of the visuals in a video are not properly documented, please try to provide a textual description.  
@@ -83,9 +88,13 @@ When contributing audio or video, try to post a description of the audio includi
 
 Chainsaws buzz in the bacground while the sound of a large cherry tree falling down makes a cracking sound before it makes a loud crashing thud when hitting the ground.
 
+#### A sample description of a tree falling in a forest with no audio:
+
+A tall oak tree falls in a forest without making a sound
+
 
 #### A sample description of a concert:
 
-The band Rage Against The Machine combines drums, electric bass, electric guitar with vocals to create a blend of punk rock, reggae, funk and hip hop, for the song Guerilla Radio which highlights the topics of activism, pirate radio and free speech through the captioned lyrics: [list full lyrics in "Caption" section of the Media Library for the post"
+The band Rage Against The Machine combines drums, electric bass, electric guitar with vocals to create a blend of punk rock, reggae, funk and hip hop, for the song Guerilla Radio which highlights the topics of activism, pirate radio and free speech through the captioned lyrics: [List the full lyrics in the "Caption" section of the Media Library for the post]
 
 
