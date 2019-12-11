@@ -12,7 +12,9 @@ Get Involved is a guide for journalists and publishers made and maintained by Ra
 Anyone can contribute, and we will list dev projects on the WordPress Dashboard.  You can ask any questions in the chat, so don't be shy!   Colaboration works best when people feel comfortable sharing their ideas, so try to use inclusive language and have an open mind when working with others.
 
 
-# Table of Contents
+# Table of Contents (Still a work in progress)
+Please join using the steps above and then leave a comment in the Discussion chat on the WordPress Dashboard to help contribute to this guide.
+
 Jump to
 
 - [Introduction](#introduction) 
