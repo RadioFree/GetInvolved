@@ -4,7 +4,7 @@ Get Involved is a guide for journalists and publishers made and maintained by Ra
 
 # First Steps
 
-<b>1</b> - Join the project by signing up at <a href="https://radiofree.org/2020/join">radiofree.org</a>
+<b>1</b> - Join the project by signing up at <a href="https://radiofree.org/join">radiofree.org</a>
 
 <b>2</b> - Introduce yourself in the Discussion chat on the Wordpress Dashboard once you sign in.
 
