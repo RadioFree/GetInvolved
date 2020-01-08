@@ -32,6 +32,7 @@ Jump to
 - [Activism](#activism)
 
 
+
 # Introduction
 
 Radio Free follows these guidelines as a template for how to best practice the dissemination and managment of information in the 21st century. These guides are meant to help highlight the best practices, tactics, and strategies for mediators of information (the media) to help disseminate information while helping protect journalists, their ideas, their sources, and everyones rights. We define a journalist as anyone publishing information in the public interest.  We consider music, art, theatre, film, blogs, and other expressive outlets as great sources for fully understanding topics from different perspectives. We welcome the idea that these non-traditional news sources can be just as, if not more, effective at informing and reaching people than traditional news sources. We encourage news and information to be submitted from all perspectives, but have strict guidelines against publishing hate speech, sexist and racist content, advertisments, information that threatens the basic human rights of expression and speech, and information that intends to be misleading or intentioanlly confusing for readers. 
@@ -100,4 +101,16 @@ The band Rage Against The Machine combines drums, electric bass, electric guitar
 
 # Activism
 
-We encourage everyone in the community to take a stand on issues they feel strongly about.  We are working on maintaining a list of best practices for activists, to be able to aide in grassroots marketing efforts for people, not profits. With this in mind, we ask that you not use these tools for commercial purposes and that you not take any money from corporations when you do use these tools.  This ensures these will be used for the public interest, not corporate interests.  If you have any questions about these permissions, please email info@radiofree.org for clarification. 
+We encourage everyone in the community to take a stand on issues they feel strongly about.  We are working on guides (found below) to be able to aide in grassroots marketing efforts for people, not profits. With this in mind, we ask that you not use these tools for commercial purposes and that you not take any money from corporations when you do use these tools for things.  This ensures these will be used for the public interest, not corporate interests.  If you have any questions about these permissions, please email info@radiofree.org for clarification. 
+
+## How to Wheatpaste
+
+Wheatpasting is a form of expression where paper art is brushed with a form of glue like paste that stucks to most surfaces. It can be easily made and is extremely cheap.  You can make wheatpaste so many different ways, from just mixing glue and water (fing a ratio that works, more water than glue), to traditional methods like putting a 1/4 cup of flour in a gallon of water and boiling it for 5 minutes (which makes a perfect slurry to hold paper on any surface naturally).
+
+### Step One - Choose a paste
+
+#### Flour Method
+
+This method is super simple and the most accessible for everyone. All you need is flour and water.  Boil 1 gallon of water. In a seperate cup, mix 1/4 cup of flour into roughly 3 cups of room temperature water.  Mix this until it is combined, then mix it into the boiling water and stir on mediium heat for 2-3 minutes. Let it cool.
+
+
