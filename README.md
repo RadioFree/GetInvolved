@@ -35,17 +35,16 @@ Jump to
 
 # Introduction
 
-Radio Free follows these guidelines as a template for how to best practice the dissemination and managment of information in the 21st century. These guides are meant to help highlight the best practices, tactics, and strategies for mediators of information (the media) to help disseminate information while helping protect journalists, their ideas, their sources, and everyones rights. We define a journalist as anyone publishing information in the public interest.  We consider music, art, theatre, film, blogs, and other expressive outlets as great sources for fully understanding topics from different perspectives. We welcome the idea that these non-traditional news sources can be just as, if not more, effective at informing and reaching people than traditional news sources. We encourage news and information to be submitted from all perspectives, but have strict guidelines against publishing hate speech, sexist and racist content, advertisments, information that threatens the basic human rights of expression and speech, and information that intends to be misleading or intentioanlly confusing for readers. 
+Radio Free follows these guidelines as a template for how to best practice the dissemination and managment of information in the 21st century. These guides are meant to help highlight the best practices, tactics, and strategies for mediators of information (the media) to help disseminate information while helping protect journalists, their ideas, their sources, and everyones rights. We define a journalist as anyone publishing information in the public interest.  We consider music, art, theatre, film, blogs, and other expressive outlets as great sources for fully understanding topics from different perspectives. We welcome the idea that these non-traditional news sources can be just as, if not more, effective at informing and reaching people than traditional news formats. We encourage news and information to be submitted from all perspectives, but have strict guidelines against publishing hate speech, sexist and racist content, advertisments, information that threatens the basic human rights of expression and speech, and information that intends to be misleading or intentioanlly confusing for readers. 
 
 
 # Tools
 
-Radio Free makes tools for journalists, always open source, and always free to use. These tools are made on an as needed and new tools can be requested by emailing a detailed description of what is needed to info@radiofree.org. We invite others to contribute to our projects on Github.com/RadioFree where all tools live. 
-
+Radio Free makes tools for journalists, always open source, and always free to use. These tools are made as needed and new tools can be requested by emailing a detailed description of what is needed to info@radiofree.org. We invite others to contribute to our projects on Github.com/RadioFree.
 
 # Tactics
 
-Getting information from a source to an audience takes many forms. We invite anyone to use our content (radiofree.org) to help spread the word about news in their community.  
+Getting information from a source to an audience takes strategy. We invite anyone to use our content (radiofree.org) to help spread the word about news in their community.  
 
 ## Print
 We created a plugin for WordPress that once installed, allows you to print any post in the Radio Free style.  The plugin adds a print button to the bottom of each post, which creates a print friendly version of the page including in-line annotations for links so that sources are kept transparent.  github.com/radiofree/print
