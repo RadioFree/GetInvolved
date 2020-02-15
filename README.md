@@ -6,18 +6,18 @@ Get Involved is a guide for journalists and publishers made and maintained by Ra
 
 <b>1</b> - Join the project by signing up at <a href="https://radiofree.org/join">radiofree.org</a>
 
-<b>2</b> - Introduce yourself in the Discussion chat on the Wordpress Dashboard once you sign in.
+<b>2</b> - Introduce yourself in the Discussion chat once you sign in.
 
-<b>3</b> - Once in the dashboard, you can chat with other users for help and discuss projects on the dashboard.
+<b>3</b> - Chat with other users for help and discuss projects on the dashboard. 
 
 
 Anyone can contribute, and we will list all projects on the WordPress Dashboard.  You can ask any questions in the chat, so don't be shy! Collaboration works best when people feel comfortable sharing their ideas, so try to use inclusive language and have an open mind when working with others.
 
-When you first join, you'll need an editor to assaign you work.  Just ask for an editor in the chat, and explain what you want to work on.  The editor will then assaign you the task and work as the project lead until you are given more access to the site.  
+When you first join, you'll need an Admin to assaign you work. Just ask for an Admin in the chat, and explain what you want to work on. The Admin will then assaign you the task and work as the project lead until you are given more access to the site.  
 
 
 # Table of Contents (Still a work in progress)
-Please join using the steps above and then leave a comment in the Discussion chat on the WordPress Dashboard to help contribute to this guide.
+Please join using the steps above and then leave a comment in the Discussion chat to help contribute to this guide.
 
 Jump to
 
@@ -35,35 +35,35 @@ Jump to
 
 # Introduction
 
-Radio Free follows these guidelines as a template for how to best practice the dissemination and managment of information in the 21st century. These guides are meant to help highlight the best practices, tactics, and strategies for mediators of information (the media) to help disseminate information while helping protect journalists, their ideas, their sources, and everyones rights. We define a journalist as anyone publishing information in the public interest.  We consider music, art, theatre, film, blogs, and other expressive outlets as great sources for fully understanding topics from different perspectives. We welcome the idea that these non-traditional news sources can be just as, if not more, effective at informing and reaching people than traditional news formats. We encourage news and information to be submitted from all perspectives, but have strict guidelines against publishing hate speech, sexist and racist content, advertisments, information that threatens the basic human rights of expression and speech, and information that intends to be misleading or intentioanlly confusing for readers. 
+Radio Free follows these guidelines as a template for how to best practice the dissemination and managment of information. These guides are meant to help highlight the best practices, tactics, and strategies for mediators of information (the media) to help disseminate information while helping protect journalists, their ideas, their sources, and everyones rights. We define a journalist as anyone publishing information in the public interest. We consider music, art, theatre, film, blogs, and other expressive outlets as great sources for fully understanding topics from different perspectives. We welcome the idea that these non-traditional news sources can be just as, if not more, effective at informing and reaching people than traditional news formats. We encourage news and information to be submitted from all perspectives, but have strict guidelines against publishing hate speech, sexist and racist content, advertisments, information that threatens the basic human rights of expression and speech, and information that intends to be misleading or intentioanlly confusing for readers. 
 
 
 # Tools
 
-Radio Free makes tools for journalists, always open source, and always free to use. These tools are made as needed and new tools can be requested by emailing a detailed description of what is needed to info@radiofree.org. We invite others to contribute to our projects on Github.com/RadioFree.
+Radio Free makes tools for journalists, always open source, and always free to use. These tools are made as needed and new tools can be requested in the chatroom. We invite others to contribute to our projects on Github.com/RadioFree.
 
 # Tactics
 
 Getting information from a source to an audience takes strategy. We invite anyone to use our content (radiofree.org) to help spread the word about news in their community.  
 
 ## Print
-We created a plugin for WordPress that once installed, allows you to print any post in the Radio Free style.  The plugin adds a print button to the bottom of each post, which creates a print friendly version of the page including in-line annotations for links so that sources are kept transparent.  github.com/radiofree/print
+We created a plugin for WordPress that once installed, allows you to print any post in the Radio Free style. The plugin adds a print button to the bottom of each post, which creates a print friendly version of the page including in-line annotations for links so that sources are kept transparent. github.com/radiofree/print
 
 
 # Editors
 
-To become an editor on Radio Free, we require you to maintain at least 20 published submissions on radiofree.org and be an active (active = contributing by posting or editing at least once every two months) member of our editorial community.  Make an account on radiofree.org to get started.  Once you have at least 20 published articles you'll see a button labled "Editorial Application" on the dashboard which you'll need to submit to be able to begin editing content.  This process ensures our platform stays protected from malicious edits, while also providing a training period for new and seasoned editors to the Radio Free guidelines. 
+To become an editor on Radio Free, we require you to maintain at least 20 published submissions on radiofree.org and be an active (active = contributing by posting or editing at least once every two months) member of our editorial community. Make an account on radiofree.org to get started. Once you have at least 20 published articles you can email info@radiofree.org and request to be an editor.  This process ensures our platform stays protected from malicious edits, while also providing a training period for new and seasoned editors to the Radio Free guidelines. 
 
 # Contributors
 
-There are infinite ways to contribute to Radio Free.  Below are just a few of the most common ways people get involved.  If there are projects or ideas you have that are not listed below, suggest an idea to an editor in the Discussion chat on the WordPress Dashboard of radiofree.org.  You can also email ideas to info@radiofree.org.
+There are infinite ways to contribute to Radio Free.  Below are just a few of the most common ways people get involved. If there are projects or ideas you have that are not listed below, suggest an idea to an editor in the Discussion chat on the WordPress Dashboard of radiofree.org. You can also email ideas to info@radiofree.org.
 
 ## Publishers
-Anyone can submit content to be published. We ask that you submit content by creating an account on radiofree.org and submitting by using the WordPress editor, which can be accessed by clicking the "Home" icon on the WordPress Admin Bar when logged in, and then clicking on "Posts" on the left hand column.  If you're unfamiliar with using WordPress, email info@radiofree.org and we can answer any questions not easily answered on wordpress.org or simply searching the internet. Wordpress.org is a gret place to get started understanding how to use WordPress.
+Anyone can submit content to be published. Here's a guide that helps explain how to get started. Feel free to use this to train others too. https://www.radiofree.org/wp-content/uploads/2020/02/Radio-Free-How-to-Get-Started.pdf
 
-Our editors are trained to maintain strict guidelines against publishing hate speech, sexist and/or racist content, advertisments (with the exception being unpaid advertisments that promote free expression, such as a concert or art show), information that threatens the first ammendment and freedom of the press, and information that intends to be misleading. These guidelines are constantly revisited by our editorial team to ensure they meet the everychanging needs of people and news publishers in the future. If you are unsure why a certain post was taken down or rejected, please email info@radiofree.org so that we can try to explain the reasons behind the decision, or reverse the decision if it was made by in poor judgment.  
+We maintain strict guidelines against publishing hate speech, sexist and/or racist content, advertisments (with the exception being unpaid advertisments that promote art, which we define as the perception of expression), information that threatens the first ammendment and freedom of the press, and information that intends to be misleading. These guidelines should be constantly revisited to ensure they meet the everchanging needs of people and news publishers. 
 
-We ask that when you create content, you keep track of all people who contributed to that content being created.  Please add their names somewhere in the article where it it most approproiate for them to be recognized.  For any media added to the media library, we ask that you add the contributors names to that media within the "captions" field on WordPress.  
+We ask that when you create content, you keep track of all people who contributed to that content being created. Please add their names somewhere in the article where it is most approproiate for them to be recognized. For any media added to the media library, we ask that you add the contributors names to that media within the "captions" field on WordPress.  
 
 ## Best Practice for Preparing Content
 
@@ -71,11 +71,13 @@ We ask that when you create content, you keep track of all people who contribute
 
 When contributing written material, please try to link any words that readers might not be familiar with to a source that explains those words.  Wikipedia is a great resource for this, but any reliable source that explains the word or phrase is acceptable to use. Please do not use any shortlink or link forwarding services for these links (like bit.ly), as this will help our readers more easily be able to tell where the link is directing them.  
 
-It is important to write for accessability, so this means writing about complicated topics so that both a teenager and distinguished professor can easily understand what the topic is about without having to rely on other sources.  A good rule of thumb for adhearing to this is being able to read the article and only rely on links embedded in the text for context to understand the ideas being presented.  If the user has to search for terms, names, etc... without being able to click a link to just be able to understand the article, it needs more context.   Too many links can confuse the reader, so keeping a balance between providing links for context and using textual descriptors is bes practice.  If it can be explained easily with just a few words without a link, there is no need to add the link.
+It is important to write for accessability, so this means writing about complicated topics so that both a new student to english and a distinguished english professor can easily understand what the topic is about without having to rely on other sources. A good rule of thumb for adhearing to this is being able to read the article and only rely on links embedded in the text for context to understand the ideas being presented. If the user has to search for terms, names, etc... without being able to click a link to just be able to understand the article, it needs more context. Too many links can confuse the reader, so keeping a balance between providing links for context and using textual descriptors should be the goal. If it can be explained easily with just a few words without a link, there is no need to add the link.
+
+Use whatever style for citations you want, but please try to provide links when adding digital sources. This helps ensure our feeds are formatted a bit cleaner, which is important to keep in mind when writing.  If you add code, make sure it doesnt break the site by previewing you post before you submit work.
 
 ### Photography
 
-Photos and other images should always try to provide a textual description of what is happening in the photo, who is depicted in the image, where the image took place, and when the photo was taken.  
+Photos and other images should always try to provide a textual description of what is happening in the photo, who is depicted in the image, where the image took place, and when the photo was taken.  This can be added to the "Captions" section of the photo when uploading in the Media Library.  
 
 #### Example of an image caption:
 
@@ -104,12 +106,20 @@ We encourage everyone in the community to take a stand on issues they feel stron
 
 ## How to Wheatpaste
 
-Wheatpasting is a form of expression where paper art is brushed with a form of glue like paste that stucks to most surfaces. It can be easily made and is extremely cheap.  You can make wheatpaste so many different ways, from just mixing glue and water (fing a ratio that works, more water than glue), to traditional methods like putting a 1/4 cup of flour in a gallon of water and boiling it for 5 minutes (which makes a perfect slurry to hold paper on any surface naturally).
+Wheatpasting is a form of expression where paper is brushed with a form of glue like paste that stucks to most surfaces. It can be easily made and is extremely cheap.  You can make wheatpaste so many different ways, from just mixing glue and water (fing a ratio that works, more water than glue), to traditional methods like putting a 1/4 cup of flour in a gallon of water and boiling it for 5 minutes (which makes a perfect slurry to hold paper on any surface naturally).
 
 ### Step One - Choose a paste
 
 #### Flour Method
 
 This method is super simple and the most accessible for everyone. All you need is flour and water.  Boil 1 gallon of water. In a seperate cup, mix 1/4 cup of flour into roughly 3 cups of room temperature water.  Mix this until it is combined, then mix it into the boiling water and stir on mediium heat for 2-3 minutes. Let it cool.
+
+#### Glue Method
+
+Mix basic white school glue with water, the ratio is up to you, but maybe start with a 80 Water/20 Glue ratio. Mix the two together and thats it, you're ready.
+
+### Step Two - Choose a wall
+
+You can use printable versions of Articles on Radio Free to spread the word about the news.  Print the article out and paste it on a wall that gets a lot of foot traffic so it will be seen.  One simple method is to take a plastic squeezable bottle and load it with your paste. Then simply squirt some on the wall, push the paper into it, and once it sticks, squirt some more and press it firmly with a dishrag.
 
 
