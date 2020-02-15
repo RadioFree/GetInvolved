@@ -16,7 +16,7 @@ Anyone can contribute, and we will list all projects on the WordPress Dashboard.
 When you first join, you'll need an Admin to assaign you work. Just ask for an Admin in the chat, and explain what you want to work on. The Admin will then assaign you the task and work as the project lead until you are given more access to the site.  
 
 
-# Table of Contents (Still a work in progress)
+# Table of Contents 
 Please join using the steps above and then leave a comment in the Discussion chat to help contribute to this guide.
 
 Jump to
